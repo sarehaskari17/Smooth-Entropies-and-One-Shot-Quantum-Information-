@@ -38,6 +38,3 @@ A companion notebook with:
 
 ---
 
-
-## 📂 Repository Structure
-
