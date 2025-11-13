@@ -1,6 +1,5 @@
 # Smooth Entropies and One-Shot Quantum Information  
-Self-Study Notes by Sareh Askari
-
+Self-Study Notes
 These are my personal notes on **smooth entropies** (min- and max-entropy) and their role in
 **one-shot quantum information theory**.
 
